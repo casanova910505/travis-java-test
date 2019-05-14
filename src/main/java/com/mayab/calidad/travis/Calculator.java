@@ -2,13 +2,13 @@ package com.mayab.calidad.travis;
 
 public class Calculator {
 	public int add(int a, int b) {
-		return a + c;
+		return a + b;
 	}
 	public int sub(int a, int b) {
-		return a - d;
+		return a - b;
 	}
 	public int mul(int a, int b) {
-		return a * d;
+		return a * b;
 	}
 	public int div(int a, int b) {
 		return a / b;
